@@ -1,5 +1,7 @@
 body {
-    font-family: Roboto, Helvetica, sans-serif;
+    /*font-family: Roboto, Helvetica, sans-serif;
+    */
+    font-family: 'Baskervville', serif;
     margin: 0;
     background-color: #eee;
 }
@@ -38,14 +40,14 @@ a {
     margin: 0;
     padding: 10px 20px;
     font-size: 50px;
-    font-weight: 100;
+    font-weight: 125;
     background-color: rgba(105, 105, 155, 0.774);
     color: rgb(255, 255, 255);
 }
 
 .navbar {
     position: relative;
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.5);
     font-size: 20px;
     line-height: 22px;
 }
@@ -86,7 +88,7 @@ a:focus {
     margin: 50px 10%;
     display: flex;
     flex-wrap: wrap;
-    
+    overflow-y: auto;
 }
 
 .poem {
