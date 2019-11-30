@@ -67,7 +67,7 @@ a {
 
 a:hover,
 a:focus {
-    color: blueviolet;
+    color: rgb(59, 20, 95);
 }
 
 a:focus {
