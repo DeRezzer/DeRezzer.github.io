@@ -1,14 +1,18 @@
 [
     {
-        "title": "Fragments"
+        "title": "Fragments",
+        "URL": "fragments.html"
     },
     {
-        "title": "Cariño"
+        "title": "Cariño",
+        "URL": "carno.html"
     },
     {
-        "title": "To: You, From: Ezra"
+        "title": "To: You, From: Ezra",
+        "URL": "moonlight.html"
     },
     {
-        "title": "Crystl Vision"
+        "title": "Crystl Vision",
+        "URL": "crystal_vision.html"
     }
 ]
