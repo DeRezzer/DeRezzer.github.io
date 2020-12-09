@@ -26,25 +26,83 @@ body {
  */ 
 }
 
-header {
-    display: block;
-}
+
+
 
 a {
     text-decoration: none;
 }
 
-.site-title {
+.site-projects{
+    display: inline-block;
+    float: right;
     position: relative;
-    text-align: center;
+    width: auto;
     margin: 0;
     padding: 10px 20px;
     font-size: 50px;
     font-weight: 125;
-    background-color: rgba(105, 105, 155, 0.774);
+    /*background-color: rgba(105, 105, 155, 0.774);*/
     color: rgb(255, 255, 255);
 }
 
+.site-title {
+    display: inline-block;
+    position: relative;
+    width: auto;
+    /*text-align: center;*/
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 50px;
+    font-weight: 125;
+    /*background-color: rgba(105, 105, 155, 0.774);*/
+    color: rgb(255, 255, 255);
+}
+
+.site-about{
+    display: inline-block;
+    float: right;
+    position: relative;
+    width: auto;
+    /*text-align: center;*/
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 50px;
+    font-weight: 125;
+    /*background-color: rgba(105, 105, 155, 0.774);*/
+    color: rgb(255, 255, 255);
+}
+
+.site-github{
+    display: inline-block;
+    float: right;
+    position: relative;
+    width: auto;
+    /*text-align: center;*/
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 50px;
+    font-weight: 125;
+    /*background-color: rgba(105, 105, 155, 0.774);*/
+    color: rgb(255, 255, 255);
+}
+
+.site-link{
+    position: relative;
+    float: right;
+    display: inline-block;
+    position: relative;
+    width: auto;
+    /*text-align: center;*/
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 50px;
+    font-weight: 125;
+    /*background-color: rgba(105, 105, 155, 0.774);*/
+    color: rgb(255, 255, 255);
+}
+
+/*
 .navbar {
     position: relative;
     background-color: rgba(255, 255, 255, 0.5);
@@ -60,6 +118,7 @@ a {
 .navitem {
     display: inline-block;
 }
+*/
 
 a {
     color: #343434;
